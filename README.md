@@ -45,7 +45,7 @@ Additionally, **Laravel Tachyon** ensures that the optimization process does not
 ### Requirements
 
 - **[PHP 8.2+](https://php.net/releases/)**
-- ## **[Laravel 12.0+](https://github.com/laravel/laravel)**
+- **[Laravel 12.0+](https://github.com/laravel/laravel)**
   - But it should work for Laravel 11 as well.
 
 ### Installation

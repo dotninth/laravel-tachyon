@@ -13,8 +13,8 @@
 
 <h4 align="center">
     <img src="https://img.shields.io/badge/v4.0.0-version?style=for-the-badge&color=C9CBFF&labelColor=302D41&label=version" alt="Latest Stable Version">
-    <img src="https://img.shields.io/badge/8.2-php_version?style=for-the-badge&color=89dceb&labelColor=302D41&label=php" alt="Required PHP Versiond">
-    <img src="https://img.shields.io/badge/11-laravel_version?style=for-the-badge&color=ef9f76&labelColor=302D41&label=laravel" alt="Required Laravel Versiond">
+    <img src="https://img.shields.io/badge/8.2-php_version?style=for-the-badge&color=89dceb&labelColor=302D41&label=php" alt="Required PHP Version">
+    <img src="https://img.shields.io/badge/12-laravel_version?style=for-the-badge&color=ef9f76&labelColor=302D41&label=laravel" alt="Required Laravel Version">
     <img src="https://img.shields.io/badge/MIT-license?style=for-the-badge&color=cba6f7&labelColor=302D41&label=license" alt="License">
 </h4>
 
@@ -45,7 +45,8 @@ Additionally, **Laravel Tachyon** ensures that the optimization process does not
 ### Requirements
 
 - **[PHP 8.2+](https://php.net/releases/)**
-- **[Laravel 11.0+](https://github.com/laravel/laravel)**
+- ## **[Laravel 12.0+](https://github.com/laravel/laravel)**
+  - But it should work for Laravel 11 as well.
 
 ### Installation
 
@@ -174,5 +175,5 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[link-file-download]: https://laravel.com/docs/11.x/responses#file-downloads
-[link-package-discovery]: https://laravel.com/docs/11.x/packages#package-discovery
+[link-file-download]: https://laravel.com/docs/12.x/responses#file-downloads
+[link-package-discovery]: https://laravel.com/docs/12.x/packages#package-discovery

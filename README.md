@@ -12,8 +12,8 @@
 </h1>
 
 <h4 align="center">
-    <img src="https://img.shields.io/badge/v4.1.0-version?style=for-the-badge&color=C9CBFF&labelColor=302D41&label=version" alt="Latest Stable Version">
-    <img src="https://img.shields.io/badge/8.2-php_version?style=for-the-badge&color=89dceb&labelColor=302D41&label=php" alt="Required PHP Version">
+    <img src="https://img.shields.io/badge/v4.2.0-version?style=for-the-badge&color=C9CBFF&labelColor=302D41&label=version" alt="Latest Stable Version">
+    <img src="https://img.shields.io/badge/8.3-php_version?style=for-the-badge&color=89dceb&labelColor=302D41&label=php" alt="Required PHP Version">
     <img src="https://img.shields.io/badge/12-laravel_version?style=for-the-badge&color=ef9f76&labelColor=302D41&label=laravel" alt="Required Laravel Version">
     <img src="https://img.shields.io/badge/MIT-license?style=for-the-badge&color=cba6f7&labelColor=302D41&label=license" alt="License">
 </h4>
@@ -46,7 +46,6 @@ Additionally, **Laravel Tachyon** ensures that the optimization process does not
 
 - **[PHP 8.2+](https://php.net/releases/)**
 - **[Laravel 12.0+](https://github.com/laravel/laravel)**
-  - But it should work for Laravel 11 as well.
 
 ### Installation
 
